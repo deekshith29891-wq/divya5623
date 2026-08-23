@@ -2,32 +2,48 @@
 
 ### AI/ML Engineer · Generative AI · LLMs · AI Agents · Competitive Programming
 
-B.Tech Computer Science student specializing in Artificial Intelligence, focused on building practical solutions with **Machine Learning, Generative AI, LLMs, RAG, and AI Agents**.
+B.Tech Computer Science student specializing in Artificial Intelligence, focused on building practical AI systems using **Machine Learning, Generative AI, LLMs, RAG, and AI Agents**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages**
-Python · C++ · JavaScript · SQL
+### Languages
 
-**AI / Machine Learning**
-Machine Learning · Generative AI · LLMs · RAG · AI Agents · Computer Vision · PyTorch · TensorFlow · OpenCV · LangChain
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**Frontend**
-React · Tailwind CSS · Vite
+### AI / Machine Learning
 
-**Backend**
-FastAPI · Flask · Node.js
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-**Databases**
-PostgreSQL · MongoDB · Redis
+### Development
 
-**Cloud & DevOps**
-Google Cloud · Docker · Linux · Git · GitHub
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-**Core CS**
-Data Structures & Algorithms · DBMS · Operating Systems · Problem Solving
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
@@ -35,12 +51,15 @@ Data Structures & Algorithms · DBMS · Operating Systems · Problem Solving
 
 ### Women Safety — AI-Powered Safety Platform
 
-An AI-powered platform focused on improving personal safety through intelligent detection, real-time assistance, and automated emergency response.
+An AI-powered safety platform designed to support **real-time threat detection, intelligent assistance, and emergency response**.
 
-**Technologies:**
-`Python` `Machine Learning` `Computer Vision` `AI` `React` `FastAPI`
+**Core Technologies**
 
-[View Project →](#)
+`Python` `Machine Learning` `Computer Vision` `React` `FastAPI`
+
+**Focus:** AI · Real-Time Systems · Computer Vision · Personal Safety
+
+**[View Repository →](YOUR-WOMEN-SAFETY-REPOSITORY-URL)**
 
 ---
 
@@ -57,22 +76,13 @@ An AI-powered platform focused on improving personal safety through intelligent 
 
 ## 💻 Competitive Programming
 
-**LeetCode — Knight**
+### LeetCode — Knight
 
-* 70+ problems solved
-* Primary language: Python
-* Also solving in C++
+**70+ Problems Solved**
 
-[LeetCode Profile →](https://leetcode.com/u/divyashettar65/)
+Primary: `Python` · Also solving with `C++`
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[View LeetCode Profile →](https://leetcode.com/u/divyashettar65/)
 
 ---
 
@@ -82,6 +92,19 @@ An AI-powered platform focused on improving personal safety through intelligent 
 
 ---
 
+## 📫 Connect
+
+<p align="left">
+  <a href="https://github.com/divya5623">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/divyashettar65/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <b>Building intelligent systems and solving challenging problems.</b>
+  <b>Building intelligent systems. Solving challenging problems.</b>
 </p>
