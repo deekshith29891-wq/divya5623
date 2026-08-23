@@ -1,3 +1,234 @@
+# Divya Shettar
+
+**AI/ML Engineer · Generative AI · LLMs · AI Agents**
+
+B.Tech Computer Science student specializing in Artificial Intelligence, focused on building practical AI systems using **Machine Learning, Generative AI, LLMs, RAG, and AI Agents**.
+
+---
+
+## Featured Project
+
+### QuantAI
+
+AI-powered quantitative trading platform combining machine learning, financial analytics, portfolio optimization, risk analysis, and LLM-powered insights.
+
+**Stack:** `Python` `FastAPI` `React` `PyTorch` `LangChain` `PostgreSQL` `Docker` `Google Cloud`
+
+[View Project →](https://github.com/divya5623/QuantAI)
+
+---
+
+## Technical Skills
+
+**Languages**
+Python · C++ · JavaScript · SQL
+
+**AI / ML**
+Machine Learning · Generative AI · LLMs · RAG · AI Agents · Computer Vision · PyTorch · TensorFlow · OpenCV · LangChain
+
+**Development**
+React · FastAPI · Flask · Node.js
+
+**Databases**
+PostgreSQL · MongoDB · Redis
+
+**Cloud & DevOps**
+Google Cloud · Docker · Linux · Git · GitHub
+
+**Computer Science**
+Data Structures & Algorithms · DBMS · Operating Systems
+
+---
+
+## Achievements
+
+* National Hackathon Runner-Up
+* Google Cloud Certified
+* Google eSkills Gold Badge
+* Millennium Fellowship — Round 1 Selected
+* Big Code 2026 — Round 1 Selected
+* Unified Mentor Internship
+
+---
+
+## Competitive Programming
+
+**LeetCode:** Knight · 70+ Problems Solved
+
+[LeetCode Profile →](https://leetcode.com/u/divyashettar65/)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+`Generative AI` · `LLM Engineering` · `RAG` · `AI Agents` · `MLOps` · `Distributed AI Systems`
+
+---
+
+<p align="center">
+  <b>Building intelligent systems and solving challenging problems.</b>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi 👋, I'm Divya Shettar           
 
 ### AI/ML Engineer | Generative AI Developer | Competitive Programmer
