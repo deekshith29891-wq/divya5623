@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="divya5623's GitHub profile" src="dark_mode.svg" />
+</picture>
 # Divya Shettar
 
 ### AI/ML Engineer · Generative AI · LLMs · AI Agents · Competitive Programming
