@@ -6,7 +6,7 @@ Computer Science & Engineering (Artificial Intelligence) student focused on buil
 
 <p>
   <a href="https://my-portfolio-d7hh.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> 
   </a>
   <a href="https://www.linkedin.com/in/divya-shettar-258078370/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
